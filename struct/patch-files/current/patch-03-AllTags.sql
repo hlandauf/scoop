@@ -1,0 +1,1 @@
+INSERT INTO `vars` (`name`, `value`, `description`, `type`, `category`) VALUES ('all_tags_cutoff','0','If this is set, then the \"All Tags\" page will only show tags that have been used at least <i>x</i> number of times.','num','Tags'),('all_tags_limit','0','Controls the maximum number of tags to show on the \"All Tags\" page. The default, 0, is unlimited.','num','Tags');
